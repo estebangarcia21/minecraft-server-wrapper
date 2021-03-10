@@ -1,2 +1,2 @@
 # server-wrapper
-A wrapper script for provisioning the server on deployment.
+A wrapper script for creating a local development environment for The Blue Hats Server.
